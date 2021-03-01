@@ -1,3 +1,5 @@
+学习笔记较长，如果想获取文章的目录，chrome浏览器可以配合简约插件使用，或者下载到本地使用Typora打开。
+
 # Java基础
 
 - [异常](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
@@ -17,6 +19,7 @@
 # Java并发
 
 - [JUC相关知识](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/JUC.md)
+- [《深入浅出多线程》书籍](http://concurrent.redspider.group/)
 
 
 
@@ -34,7 +37,7 @@
 - [散列](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95(Java)/10_%E5%93%88%E5%B8%8C%E8%A1%A8.md)
 - 图
 
-### 算法
+## 算法
 
 - [递归](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95(Java)/7_%E9%80%92%E5%BD%92.md)
 
@@ -81,12 +84,11 @@
 - **request**
 - **response**
 - **cookie && session**
+- [JavaWeb部分思维导图]()
 
 
 
-#  主流技术
-
-## 基础框架
+# 基础框架
 
 - [Spring IOC](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Spring/Spring-IOC.md)
 - [Spring AOP](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Spring/Spring-AOP.md)
@@ -96,7 +98,7 @@
 
 
 
-## 安全框架
+# 安全框架
 
 - [SpringSecurity入门](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/SpringSecurity/SpringSecurity.md)
 
@@ -106,7 +108,7 @@
 
   
 
-## 数据库
+# 数据库
 
 - [Redis](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Redis/Redis.md)
 
@@ -116,14 +118,14 @@
 
   
 
-## 项目管理
+# 项目管理
 
 - **Maven**
 - [Git](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Git/Git.md)
 
 
 
-## 其它
+# 其它
 
 - [Docker](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Docker/Docker.md)
 - [Linux基础和常用操作](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Linux/Linux.md)
@@ -131,7 +133,7 @@
 
 
 
-# 分布式 微服务
+# 分布式
 
 - [SpringCloud系列](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/SpringCloud/SpringCloud.md)
 - [Hystrix熔断限流](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/SpringCloud/Hystrix.md)

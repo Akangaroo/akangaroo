@@ -8,7 +8,7 @@ Spring是容器（可以管理所有的组件（类））框架
 
 为什么说Spring是一个一站式的轻量级开源框架呢？
 
-​	轻量级：不是指Spring框架的模块少，数量很轻，而是==指Spring框架的非侵入性，即对象可以不必依赖Spring的API类==
+​	轻量级：不是指Spring框架的模块少，数量很轻，而是**指Spring框架的非侵入性，即对象可以不必依赖Spring的API类**
 
 Spring的优点
 - 非侵入式：可以不依赖Spring的API
@@ -442,7 +442,7 @@ jdbc.driverClass=com.mysql.jdbc.Driver
 
 ## SpEL表达式
 
-SpEL使用**#{…}**作为定界符，所有在大框号中的字符都将被认为是SpEL表达式
+SpEL使用#{…}作为定界符，所有在大框号中的字符都将被认为是SpEL表达式
 
 使用字面量
 
