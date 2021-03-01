@@ -6,7 +6,6 @@
 - [泛型](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B.md)
 - [IO](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/IO.md)
 - [反射](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84.md)
-- **集合**
 - **多线程基础**
 - [Java8新特性](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
@@ -19,7 +18,7 @@
 # Java并发
 
 - [JUC相关知识](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/JUC.md)
-- [《深入浅出多线程》书籍](http://concurrent.redspider.group/)
+- [书籍《深入浅出多线程》](http://concurrent.redspider.group/)
 
 
 
@@ -84,7 +83,7 @@
 - **request**
 - **response**
 - **cookie && session**
-- [JavaWeb部分思维导图]()
+- [JavaWeb思维导图](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/JavaWeb/JavaWeb.png)
 
 
 
