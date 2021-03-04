@@ -8,12 +8,14 @@
 - [反射](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84.md)
 - **多线程基础**
 - [Java8新特性](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
+- [牛客网题目汇总的知识点]()
 
 
 
 # Java容器
 
-
+- [ArrayList源码分析（转载）](https://blog.csdn.net/augfun/article/details/82323164)
+- 
 
 # Java并发
 
@@ -52,15 +54,27 @@
 
 # 设计模式(23种)
 
-- **单例模式**
-- **观察者模式**
-- **工厂模式**
-- **适配器模式**
-- **装饰者模式**
-- **代理模式**
-- **模板模式**
-- **职责链模式**
-- **其它(组合模式，桥接模式，原型模式...)**
+## 创建型模式
+
+- 工厂模式
+- 抽象工厂模式
+- 生成器模式
+- 原型模式
+- 单例模式
+
+## 结构型模式
+
+- 适配器模式
+- 桥接模式
+- 组合模式
+- 装饰器模式
+- 代理模式
+- ......
+
+## 行为型模式
+
+- 观察者模式
+- ……
 
 
 
