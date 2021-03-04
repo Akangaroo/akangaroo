@@ -2,20 +2,19 @@
 
 # Java基础
 
-- [异常](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
-- [泛型](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B.md)
-- [IO](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/IO.md)
-- [反射](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84.md)
-- **多线程基础**
+- [异常处理](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
+- [了解泛型](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B.md)
+- [IO基本知识](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/IO.md)
+- [反射是什么](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84.md)
+- [多线程基础](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80.md)
 - [Java8新特性](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
-- [牛客网题目汇总的知识点]()
+- [Java知识点汇总](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
 
 
 # Java容器
 
 - [ArrayList源码分析（转载）](https://blog.csdn.net/augfun/article/details/82323164)
-- 
 
 # Java并发
 
