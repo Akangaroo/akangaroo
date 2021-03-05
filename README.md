@@ -25,7 +25,13 @@
 
 # Java并发
 
-- [JUC相关知识](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/JUC.md)
+- [Lock接口和线程间通信]()
+- [多线程中关于锁的几个问题]()
+- [Callable]()
+- [常用辅助类——CountDownLatch、CyclicBarrier和Semaphore]()
+- [线程安全的容器——CopyOnWrite、ConcurrentHashMap]()
+- [ReadWriteLock读写锁]()
+- [阻塞队列和线程池]()
 - [书籍《深入浅出多线程》](http://concurrent.redspider.group/)
 
 
