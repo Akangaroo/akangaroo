@@ -1,4 +1,8 @@
-学习笔记较长，如果想获取文章的目录，chrome浏览器可以配合简悦插件使用，或者下载到本地使用Typora打开。
+学习笔记较长，如果想查看文章的目录，chrome浏览器可以配合简悦插件使用，或者下载到本地使用Typora打开。
+
+# :coffee: 
+
+
 
 # Java基础
 
@@ -7,10 +11,10 @@
 - [IO基本知识](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/IO.md)
 - [反射是什么](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%8F%8D%E5%B0%84.md)
 - [多线程基础](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80.md)
-- [Java8新特性——Date time API](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
-- [Java8新特性——Lambda表达式和方法引用]()
-- [Java8新特性——Stream API]()
-- [Java8新特性——Optional类]()
+- [Java8新特性——Date time API](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7-Date%20Time%20API.md)
+- [Java8新特性——Lambda表达式和方法引用](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7-Lambda%E5%92%8C%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8.md)
+- [Java8新特性——Stream API](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7-Stream%20API.md)
+- [Java8新特性——Optional类](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7-Optional%E7%B1%BB.md)
 - [Java基础知识汇总](https://github.com/Akangaroo/akangaroo/blob/master/akangaroo/Java%E5%9F%BA%E7%A1%80/Java%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
 
